@@ -1,0 +1,14 @@
+{
+  "name": "concentration_game",
+  "version": "1.0.0",
+  "description": "Author: Kara Campbell\r OS: Windows 7\r Browser: Google Chrome\r Launch: node app.js\r Directions:\r \tIn browser type \"localhost:2406\"\r \tEnter name when prompted\r \tClick cards to display values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karalaina",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.13"
+  }
+}
